@@ -1,2 +1,2 @@
 # Data-Structures
-All the python codes I wrote during my Data Structure course.
+Some of the python codes I wrote during my Data Structures course.
